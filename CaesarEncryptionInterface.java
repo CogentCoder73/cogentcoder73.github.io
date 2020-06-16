@@ -1,9 +1,9 @@
 
 /**
- * Write a description of CaesarEncryptionInterface here.
+ * A program in Java that encrypts or decrypts messages with a Caesar Cipher.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @Vishnu Mangipudi
+ * @6/16/2020
  */
 import java.util.*;
 public class CaesarEncryptionInterface {
